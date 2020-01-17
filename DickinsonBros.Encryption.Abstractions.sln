@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DickinsonBros.Encryption.Abstractions", "DickinsonBros.Encryption.Abstractions\DickinsonBros.Encryption.Abstractions.csproj", "{6CF0892B-C7C1-4C35-B430-9164E9A67BCE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 Library", "1 Library", "{CF799A05-0E94-4412-8DDA-6A1E6E93208A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "9 Scripts", "9 Scripts", "{F823DF03-9E65-4B6E-843F-EDFDE02E5164}"
+	ProjectSection(SolutionItems) = preProject
+		Scripts\CreateNugetPackageCI.ps1 = Scripts\CreateNugetPackageCI.ps1
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CF0892B-C7C1-4C35-B430-9164E9A67BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CF0892B-C7C1-4C35-B430-9164E9A67BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CF0892B-C7C1-4C35-B430-9164E9A67BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CF0892B-C7C1-4C35-B430-9164E9A67BCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6CF0892B-C7C1-4C35-B430-9164E9A67BCE} = {CF799A05-0E94-4412-8DDA-6A1E6E93208A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04D8D498-5C43-4A3A-A422-E4CEBCEBEF2F}
+	EndGlobalSection
+EndGlobal
