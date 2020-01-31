@@ -5,4 +5,6 @@
 
 Abstractions For DickinsonBros.Encryption 
 
-https://github.com/msdickinson/DickinsonBros.Encryption
+Abstractions For <a href="https://github.com/msdickinson/DickinsonBros.Encryption">DickinsonBros.Encryption </a>
+
+<a href="https://dev.azure.com/marksamdickinson/DickinsonBros/_build?definitionScope=%5CDickinsonBros.Encryption.Abstractions">Builds</a>
