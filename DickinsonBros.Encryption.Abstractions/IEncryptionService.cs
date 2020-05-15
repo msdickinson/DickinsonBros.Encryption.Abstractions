@@ -3,6 +3,6 @@
     public interface IEncryptionService
     {
         string Decrypt(string encryptedString);
-        string Encrypt(string rawString);
+        string Encrypt(string rawString); 
     }
 }
